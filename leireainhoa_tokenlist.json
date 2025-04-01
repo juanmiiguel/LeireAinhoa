@@ -1,0 +1,19 @@
+{
+  "name": "LeireAinhoa Token List",
+  "timestamp": "2025-04-01T21:30:49.696429Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xTU_DIRECCION_DEL_TOKEN",
+      "name": "LeireAinhoa",
+      "symbol": "LAH",
+      "decimals": 18,
+      "logoURI": "https://ipfs.io/ipfs/bafybeif6qdut4vbrbfquut3sxatsfpbkzmlm5uflz2jortfwdfuozbvwju"
+    }
+  ]
+}
